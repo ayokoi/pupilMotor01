@@ -1,4 +1,4 @@
-# Pupil diameter tracked during motor adaptation in humans: MATLAB codes and related data
+# Pupil diameter tracked during motor adaptation in humans: MATLAB codes and related data (coming soon)
 
 This repository contains MATLAB codes and related data to reproduce the Figures (except for schematics) and related analyses in Yokoi and Weiler (2022) paper "Pupil diameter tracked during motor adaptation in humans" (doi: https://doi.org/10.1152/jn.00021.2022). Each sub-folders contains codes (`/code`), data (`/data`), and some resultant figures (`/figure`), respectively. To make the codes work, all the contents (i.e., `/code`, `/data`, and `/figure`) of this repository need to be downloaded.
 
