@@ -5,7 +5,9 @@ This repository contains MATLAB codes and related data to reproduce the Figures 
 ## Dependency
 The following softwares/toolboxes need to be correctly installed to run the present code.
 - MATLAB R2015b (consistency is not guaranteed for other versions)
-- Dataframe toolbox (https://github.com/jdiedrichsen/dataframe)
+- Statistics and Machine Learning Toolbox (for fitlme.m)
+- Image Processing Toolbox (for bwconncomp.m in permutest.m)
+- Dataframe Toolbox (https://github.com/jdiedrichsen/dataframe)
 
 Note also that I haven't tested if the code correctly works on PCs.
 
